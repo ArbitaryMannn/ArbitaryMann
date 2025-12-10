@@ -59,7 +59,7 @@
   </li>
 
   <li>
-    ❤️ <strong style="color:#ffffff;">Motivation:</strong> 
+    - **Motivation:** Kellie ❤️ (2025 — ∞)
     Kellie
   </li>
 
